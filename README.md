@@ -129,7 +129,7 @@ app/
 samples/
 ├── sample_input.txt
 ├── sample_summary.txt
-├── summary.mp3
+├── output_audio.mp3
 README.md
 Dockerfile
 ```
